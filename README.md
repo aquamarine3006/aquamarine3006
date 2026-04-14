@@ -43,26 +43,6 @@ aquamarine@arch ~ $ █
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        ABOUT ME                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                        ABOUT ME                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-I operate at the boundary between hardware and software — preferring to understand systems from first principles rather than treat them as black boxes. My primary language is **C**, not as a legacy choice, but because it demands precision and gives back complete control. I complement that with **Python** for rapid experimentation and scientific computing, and am steadily deepening my knowledge of **Rust** for where safety and performance must coexist.
-
-My interest in physics is not academic decoration — it shapes how I approach engineering: find the invariants, model the system, eliminate the unnecessary. I run Linux because it is the honest environment: no abstraction layers hiding what the machine actually does.
-
-I am building toward meaningful open source contributions in systems software and low-level tooling.
-
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -76,9 +56,6 @@ I am building toward meaningful open source contributions in systems software an
 │                       TECH STACK                            │
 └─────────────────────────────────────────────────────────────┘
 ```
-
-**— Systems & Languages —**
-
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
@@ -86,15 +63,11 @@ I am building toward meaningful open source contributions in systems software an
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
-**— Scientific Computing —**
-
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
-
-**— Infrastructure & Hardware —**
 
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
@@ -112,35 +85,6 @@ I am building toward meaningful open source contributions in systems software an
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                      GITHUB METRICS                         │
-└─────────────────────────────────────────────────────────────┘
-```
-
-<table>
-  <tr>
-    <td align="center" valign="top">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=aquamarine3006&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff"
-        alt="GitHub Stats"
-        height="175"
-      />
-    </td>
-    <td align="center" valign="top">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquamarine3006&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6"
-        alt="Top Languages"
-        height="175"
-      />
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    CONTRIBUTION GRAPH                         -->
@@ -177,31 +121,6 @@ I am building toward meaningful open source contributions in systems software an
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                       PRINCIPLES                            │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-```
-  "The purpose of abstraction is not to be vague, but to create
-   a new semantic level in which one can be absolutely precise."
-                                              — Edsger W. Dijkstra
-```
-
-<div align="center">
-
-| | |
-|:---|:---|
-| **Understand before using.** | Tools should be chosen, not defaulted to. |
-| **Own the stack.** | Know what runs beneath your code. |
-| **Measure, don't guess.** | Performance claims require evidence. |
-| **Less, but correct.** | Simplicity in design is a discipline. |
-
-</div>
 
 <br>
 
