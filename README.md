@@ -1,6 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,20:0f172a,50:111827,100:020617&height=200&section=header&text=aquamarine3006&fontSize=36&fontColor=38bdf8&fontAlignY=40&desc=low-level%20systems%20%E2%80%A2%20linux%20%E2%80%A2%20c%20%E2%80%A2%20architecture&descSize=14&descAlignY=65&descColor=94a3b8&animation=fadeIn" />
+</p>
 <div align="center">
-
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a192f,100:0d1117&height=200&section=header&text=aquamarine3006&fontSize=52&fontColor=58a6ff&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Low-Level%20Developer%20%7C%20Linux%20Enthusiast&descSize=15&descAlignY=62&descColor=8b949e&animation=fadeIn&cache=1)](https://github.com/aquamarine3006)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Close+to+the+hardware%2C+where+it+matters.;Writing+C+since+before+it+was+cool+again.;Physics+%2B+Code+%3D+Understanding+reality.;Low-level+by+choice%2C+not+by+accident.&cache=1)](https://git.io/typing-svg)
 
