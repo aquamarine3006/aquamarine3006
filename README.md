@@ -71,6 +71,10 @@ aquamarine@arch ~ $ █
   <img src="https://i.gifer.com/yy3.gif" width="200"/>
 </p>
 
+<p align="left">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="180"/>
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:38bdf8&height=100&section=footer" />
 </p>
