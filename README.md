@@ -70,12 +70,14 @@ aquamarine@arch ~ $ █
 <br>
 
 <p align="center">
+  <img src="https://i.gifer.com/3nR6.gif" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:38bdf8&height=100&section=footer" />
 </p>
 
 </div>
-
-
 
 
 
