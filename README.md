@@ -73,7 +73,7 @@ aquamarine@arch ~ $ █
 
 <p align="center">
   <img src="https://i.gifer.com/Z5cP.gif" width="35"/>
-  <img src="https://i.gifer.com/yy3.gif" width="180"/>
+  <img src="https://i.gifer.com/yy3.gif" width="150"/>
   <img src="https://i.gifer.com/Z5cP.gif" width="35"/>
 </p>
 
