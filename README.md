@@ -32,7 +32,7 @@ aquamarine@arch ~ $ █
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Tools+I'm+comfortable+working+with)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=1000&pause=10000&color=38BDF8&center=true&vCenter=true&width=600&lines=Tools+I'm+comfortable+working+with)](https://git.io/typing-svg)
 
 </div>
 
