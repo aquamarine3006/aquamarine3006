@@ -70,7 +70,7 @@ aquamarine@arch ~ $ █
 <br>
 
 <p align="center">
-  <img src="https://i.gifer.com/3nR6.gif" />
+  <img src="https://i.gifer.com/yy3.gif" width="180"/>
 </p>
 
 <p align="center">
@@ -81,7 +81,40 @@ aquamarine@arch ~ $ █
 
 
 
+<p align="center">
+  <img src="https://i.gifer.com/XDZT.gif" />
+</p>
 
 
+<p align="center">
+  <img src="https://i.gifer.com/5Q0v.gif" />
+</p>
 
 
+<p align="center">
+  <img src="https://i.gifer.com/XwI4.gif" />
+</p>
+
+<p align="center">
+  <img src="https://i.gifer.com/yy3.gif" width="320"/>
+</p>
+
+<p align="center">
+  <img src="https://i.gifer.com/3F3F.gif" width="260"/>
+</p>
+
+<p align="center">
+  <img src="https://i.gifer.com/2mw6.gif" />
+</p>
+
+<p align="center">
+  <img src="https://i.gifer.com/7sZH.gif" width="200"/>
+</p>
+
+<p align="center">
+  <img src="https://i.gifer.com/ZlXs.gif" />
+</p>
+
+<p align="center">
+  <img src="https://i.gifer.com/Z5cP.gif" width="100"/>
+</p>
