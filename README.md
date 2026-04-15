@@ -69,8 +69,17 @@ aquamarine@arch ~ $ █
 
 <br>
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f172a,100:0d1117&height=100&section=footer)](https://github.com/aquamarine3006)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:38bdf8&height=100&section=footer" />
+</p>
 
 </div>
+
+
+
+
+
+
+
 
 
