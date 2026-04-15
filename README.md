@@ -1,12 +1,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,20:0f172a,50:111827,100:020617&height=200&section=header&text=aquamarine3006&fontSize=36&fontColor=38bdf8&fontAlignY=40&desc=low-level%20systems%20%E2%80%A2%20linux%20%E2%80%A2%20c%20%E2%80%A2%20architecture&descSize=14&descAlignY=65&descColor=94a3b8&animation=fadeIn" />
 </p>
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=close+to+the+hardware.;Writing+C+since+before+it+was+cool+again.;Physics+%2B+Math+%2B+Code+%3D+Understanding+reality.;Low-level+by+choice%2C+not+by+accident.)](https://git.io/typing-svg)
 
 </div>
-<br>
 
 ```console
 aquamarine@arch ~ $ whoami
@@ -28,8 +28,13 @@ aquamarine@arch ~ $ cat interests.txt
 
 aquamarine@arch ~ $ █
 ```
-
 <br>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Tools+I'm+comfortable+working+with)](https://git.io/typing-svg)
+
+</div>
 
 <div align="center">
 
@@ -62,7 +67,6 @@ aquamarine@arch ~ $ █
 
 </div>
 
-<br>
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aquamarine3006&color=38bdf8&style=flat-square&label=profile%20views)
