@@ -68,11 +68,9 @@ aquamarine@arch ~ $ █
 ![Profile Views](https://komarev.com/ghpvc/?username=aquamarine3006&color=38bdf8&style=flat-square&label=profile%20views)
 
 <p align="center">
-  <img src="https://i.gifer.com/yy3.gif" width="200"/>
-</p>
-
-<p align="left">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="180"/>
+  <img src="https://i.gifer.com/Z5cP.gif" width="35"/>
+  <img src="https://i.gifer.com/yy3.gif" width="180"/>
+  <img src="https://i.gifer.com/Z5cP.gif" width="35"/>
 </p>
 
 <p align="center">
