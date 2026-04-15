@@ -85,12 +85,6 @@ aquamarine@arch ~ $ █
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                   CONTRIBUTION ACTIVITY                     │
-└─────────────────────────────────────────────────────────────┘
-```
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aquamarine3006&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=0a192f&hide_border=true&radius=4)](https://github.com/aquamarine3006)
 
 </div>
