@@ -25,10 +25,10 @@ aquamarine@arch ~ $ whoami
 ──────────────────────────────────────────────────
   Role      : Systems & Low-Level Engineer
   Focus     : C, Linux internals, embedded systems
-  OS        : Arch Linux  [btw]
-  Shell     : zsh + tmux
-  Editor    : neovim
-  Philosophy: Understand the machine. Own the stack.
+  OS        : Arch/gentoo Linux [btw]
+  Shell     : bash + tmux
+  Editor    : vim
+  Philosophy: Know before abstraction
 ──────────────────────────────────────────────────
 
 aquamarine@arch ~ $ cat interests.txt
@@ -36,7 +36,7 @@ aquamarine@arch ~ $ cat interests.txt
   ► Physics — understanding *why* things work
   ► Embedded hardware (RPi, Arduino)
   ► Open source contribution
-  ► Numerical computing & scientific Python
+  ► Numerical computing & scientific Python / ML
 
 aquamarine@arch ~ $ █
 ```
@@ -51,30 +51,23 @@ aquamarine@arch ~ $ █
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                       TECH STACK                            │
-└─────────────────────────────────────────────────────────────┘
-```
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
-![AssemblyScript](https://img.shields.io/badge/AssemblyScript-%23000000.svg?style=flat-square&logo=assemblyscript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+<!-- Row 1 -->
+<img src="https://skillicons.dev/icons?i=c" width="48"/>
+<img src="https://skillicons.dev/icons?i=cpp" width="48"/>
+<img src="https://skillicons.dev/icons?i=rust" width="48"/>
+<img src="https://skillicons.dev/icons?i=python" width="48"/>
+<img src="https://skillicons.dev/icons?i=bash" width="48"/>
+<img src="https://skillicons.dev/icons?i=linux" width="48"/>
+<img src="https://skillicons.dev/icons?i=docker" width="48"/>
+<img src="https://skillicons.dev/icons?i=git" width="48"/>
+<img src="https://skillicons.dev/icons?i=sqlite" width="48"/>
+<img src="https://skillicons.dev/icons?i=arduino" width="48"/>
+<img src="https://skillicons.dev/icons?i=pytorch" width="48"/>
+<img src="https://cdn.simpleicons.org/numpy/58a6ff" width="48"/>
+<img src="https://cdn.simpleicons.org/scipy/58a6ff" width="48"/>
+<img src="https://cdn.simpleicons.org/pandas/58a6ff" width="48"/>
+<img src="https://cdn.simpleicons.org/raspberrypi/58a6ff" width="48"/>
+<img src="https://cdn.simpleicons.org/assemblyscript/58a6ff" width="48"/>
 
 </div>
 
@@ -112,17 +105,6 @@ aquamarine@arch ~ $ █
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aquamarine3006&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&stroke=21262d)](https://github.com/aquamarine3006)
 
-</div>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       PHILOSOPHY                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         FOOTER                                -->
@@ -133,4 +115,6 @@ aquamarine@arch ~ $ █
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a192f,100:0d1117&height=100&section=footer)](https://github.com/aquamarine3006)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aquamarine3006&color=58a6ff&style=flat-square&label=profile+views)
+<div align="center">
+
 
